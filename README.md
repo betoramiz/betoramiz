@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Qué onda! Soy Beto Ramirez 👋
+  ¡Qué onda! Soy Beto 👋
 </h1>
 <h3 align="center">Me dedico a construir cosas para la web con .NET y Angular.</h3>
 
