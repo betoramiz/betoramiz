@@ -73,7 +73,7 @@ Aquí algunos de los proyectos en los que he trabajado. ¡No dudes en explorar e
     * Un template para backend que implementa buenas practicas y el concepto de vertical slices.
     * No hace uso de la libreria MediatR
     * Simple, facil, solido y robusto
-    * [📂 Ver Repositorio](https://github.com/betoramiz/coredriven](https://github.com/betoramiz/vsa-template).
+    * [📂 Ver Repositorio](https://github.com/betoramiz/vsa-template).
     * [📖 Wiki](https://github.com/betoramiz/vsa-template/wiki).
     * [🌐 Ver Serie en Dev.to](https://dev.to/betoramiz/series/44607).
 
